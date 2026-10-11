@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_google_gs101",
+    "target_path": "device/google/gs101"
+  },
+  {
+    "repository": "proprietary_vendor_google_bluejay",
+    "target_path": "vendor/google/bluejay"
+  }
+]
